@@ -1,19 +1,9 @@
-# ** Saurav Akolia **
+#** Saurav Akolia **
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/sauravakolia"
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/sauravakolia"
-
-[[params.social]]
-    icon = "mail"
-    icon_pack = "fa"
-    link = "sauravakolia10@gmail.com"
     
 ### Hi there 👋
 
