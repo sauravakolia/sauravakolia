@@ -4,7 +4,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/sauravakolia)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/sauravakolia10)  
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravakolia10@gmail.com?)  
 
 ### Hi there 👋
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on AI projects
 * 🤔 I’m looking for help with Web Development
 * 💬 Ask me about Deep Learning,PyTorch
-* 📫 How to reach me: [sauravakolia10@gmail.com](sauravakolia10@gmail.com)
+* 📫 How to reach me: [sauravakolia10@gmail.com](mailto:sauravakolia10@gmail.com)
 
