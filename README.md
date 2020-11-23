@@ -1,8 +1,9 @@
 # Saurav Akolia 
 
-## [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/sauravakolia) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/sauravakolia) 
 &nbsp;
-## [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/sauravakolia)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/sauravakolia)
 
     
 ### Hi there 👋
