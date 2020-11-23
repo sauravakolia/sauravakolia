@@ -1,8 +1,8 @@
 # Saurav Akolia 
 
-[!(https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/sauravakolia)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/sauravakolia)
 
     
 ### Hi there 👋
@@ -13,10 +13,10 @@
 Here are some ideas to get you started:
 -->
 
-* 🔭 I’m currently working on ...Deep Learning,Computer Vision
-* 🌱 I’m currently learning ...Practical use case of OpenCV
-* 👯 I’m looking to collaborate on ...AI projects
-* 🤔 I’m looking for help with ...Web Development
-* 💬 Ask me about ...Deep Learning,PyTorch
-* 📫 How to reach me: ...[sauravakolia10@gmail.com](sauravakolia10@gmail.com)
+* 🔭 I’m currently working on Deep Learning,Computer Vision
+* 🌱 I’m currently learning practical use case of OpenCV
+* 👯 I’m looking to collaborate on AI projects
+* 🤔 I’m looking for help with Web Development
+* 💬 Ask me about Deep Learning,PyTorch
+* 📫 How to reach me: [sauravakolia10@gmail.com](sauravakolia10@gmail.com)
 
