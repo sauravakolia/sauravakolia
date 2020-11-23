@@ -1,6 +1,6 @@
 # Saurav Akolia 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/sauravakolia)
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/sauravakolia) *
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/sauravakolia)
 
