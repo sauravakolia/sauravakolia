@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on AI projects
 * 🤔 I’m looking for help with Web Development
 * 💬 Ask me about Deep Learning,PyTorch
-* 📫 How to reach me: [sauravakolia10@gmail.com](mailto:sauravakolia10@gmail.com)
 
